@@ -1,0 +1,42 @@
+create react application and run commands
+
+
+
+-> create-react-app my-app --scripts-version=react-scripts-ts (it will create project)
+
+-> go to application folder(my-app)
+
+-> npm start(run application)
+
+
+
+
+install bootstrap
+
+
+
+
+npm install bootstrap --save
+
+
+
+
+
+download api call 
+
+
+npm install axios --save
+
+
+
+npm install superagent --save
+npm install --save-dev @types/superagent
+
+
+
+//adding router to the application
+
+
+npm install react-router-dom --save
+
+npm install --save-dev @types/react-router-dom
